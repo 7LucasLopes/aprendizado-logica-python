@@ -1,24 +1,25 @@
-# Lógica de Programação em Python
+# Estudos de Lógica de Programação
 
-Este repositório contém exercícios que desenvolvi durante meus estudos de lógica de programação.
+Repositório dedicado aos estudos de lógica de programação realizados durante minha formação na Rocketseat.
 
-## 📚 Conteúdos praticados
+As atividades foram desenvolvidas principalmente utilizando Python, com exercícios e práticas voltados à compreensão dos fundamentos da programação.
 
-- Variáveis
-- Estruturas condicionais (if/else)
-- Laços de repetição (for/while)
-- Funções
-- Listas
-- Jogos simples (adivinhação e jogo da velha)
+## Conteúdos estudados
 
-## 🎯 Objetivo
+- Variáveis e tipos de dados;
+- Operadores e expressões;
+- Estruturas condicionais;
+- Estruturas de repetição;
+- Funções;
+- Listas e outras estruturas de dados;
+- Fundamentos de lógica de programação.
 
-Desenvolver uma base sólida em programação para evoluir na área de tecnologia.
+## Sobre os estudos
 
-## 🚀 Tecnologias
+Os exercícios foram desenvolvidos ao longo das aulas e atividades da formação, com orientação do professor e prática dos conceitos apresentados.
 
-- Python
+Este repositório representa minha etapa inicial de construção da base em programação e lógica computacional.
 
-## 📌 Observação
+## Objetivo
 
-Este repositório será atualizado conforme avanço nos estudos.
+Consolidar os fundamentos da lógica de programação e desenvolver o raciocínio necessário para resolver problemas utilizando código.
